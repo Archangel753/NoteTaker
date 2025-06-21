@@ -1,0 +1,19 @@
+[
+    {
+        "title": "cool",
+        "content": "please work\ncool\n"
+    },
+    {
+        "title": "just a normal note",
+        "content": "yea its a note\njust a normal note\ni mean we need notes\nnormal notes\nso i made one\na normal note"
+    },
+    {
+        "title": "test note",
+        "content": "nice"
+    },
+    {
+        "title": "test note2",
+        "content": "testing if public",
+        "public": true
+    }
+]
