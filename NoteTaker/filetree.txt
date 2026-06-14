@@ -1,0 +1,15 @@
+HUGEthing/
+├── filetree.txt
+├── main.py
+├── commands/
+│   ├── __init__.py
+│   ├── add.py
+│   ├── read.py
+│   ├── search.py
+│   ├── remind.py
+|   └── clear.py
+├── data/
+│   ├── notes.json
+│   └── reminders.json
+└── utils/
+    └── parser.py

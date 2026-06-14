@@ -1,0 +1,54 @@
+[
+    {
+        "title": "cool",
+        "content": "please work\ncool\n"
+    },
+    {
+        "title": "just a normal note",
+        "content": "yea its a note\njust a normal note\ni mean we need notes\nnormal notes\nso i made one\na normal note"
+    },
+    {
+        "title": "test note",
+        "content": "nice"
+    },
+    {
+        "title": "test note2",
+        "content": "testing if public",
+        "public": true
+    },
+    {
+        "title": "hello",
+        "content": "hello, this is the basic note, and a guide on how to use this software.\n\nThis is a basic note taking software that is terminal based, i personally use this whenever downloading a new linux distro that i want to expiriment with, as a way to save stuff.\n\nAs mentioned when the software was opened, typing 'help' will bring up a list of commands.\nthere is a seperate note titled \"command functions\" that explains how to use each command, examples included.\n\nI hope you find this piece of code as usefull as i find it, \n\n\t\t-Sincerely, Archangel.",
+        "public": true
+    },
+    {
+        "title": "note",
+        "content": "its a note wow",
+        "public": false
+    },
+    {
+        "title": "jjba.jjba",
+        "content": "jjba",
+        "public": false
+    },
+    {
+        "title": "jjba.jjba",
+        "content": "search j",
+        "public": false
+    },
+    {
+        "title": "jjba.jjba",
+        "content": "jjba",
+        "public": false
+    },
+    {
+        "title": "jjba.jjba",
+        "content": "",
+        "public": false
+    },
+    {
+        "title": "command functions",
+        "content": "There are 5 main commands, add, clear, read, remind, and search.\n\nThese all are preety self explainitory, but this serves as a manual to help when you dont understand something.\n\n1. Add command\nstructure: add <title> <public|private>\nthe add command adds a note, the public/private part dosent really matter, i use this as a way to organize notes, but setting a note\nto public or private dosent change its visibility, nothing is encrypted and nothing is saved on the internet, all local. \nexample: add test public\nafter entering the command you will be put in a sort of \"writing zone\" that will not terminate until you create a new line, then type DONE, then press enter again, so feel free to press enter/return all you want.\n\n2. Read command\nstructure: read <note_title>\nthe read command reads notes you have created, its simple, just type read followed by the title of your note (a common issue is spelling)\nand you should have used it correctly, pretty straitforward.\nexample: read test\n\n3. Clear command\nstructure: clear\nThe clear command does not take any arguments and is the simpilest command, just type clear.\nexample: clear\n\n4. Remind command\nstructure: remind <add/list> <content> [ due_date (YYYY-MM-DD HH:MM:SS)]\nthis is the most complex of the commands, this was just a small addition that dosent do anything special, it is just another type of note\n,it does not ring whenever the date comes around the due date feature is just for your own tracking, this is one of the less usefull \nfeatures.\nexample remind add CODE CODENOW 2025-06-21 06:30:30\nexample: remind list\nthis just lists all reminders\n\n5. Search command\nstructure: search <query>\njust looks through your list of notes, simple enough.\nexample: search h\nthis will bring up all of the notes whos titles have h at the start\n\nI hope this little data sheet helps!\n",
+        "public": true
+    }
+]
